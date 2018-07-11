@@ -1,0 +1,48 @@
+.kart-form-div {
+	width:80%;
+}
+.kart-form-div2 {
+	width:80%;
+}
+.kart-head {
+    font-size: 16px;
+    font-weight: bold;
+    height: 30px;
+}
+.kart-head > span {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: normal;
+}
+.kart-field {
+	padding: 10px 10px 10px 10px;
+	width: 100%;
+}
+.kart-field input {
+	width: 70%;
+}
+.kart-field textarea{
+	width: 70%;
+}
+.kart-field select{
+	width: 72%;
+}
+.kart-field select option{
+	height:23px;
+}
+
+.kart-fieldset {
+    border: 1px solid #dee2c1;
+    border-radius: 10px;
+	margin-bottom: 10px;
+}
+.kart-success {
+    background: none repeat scroll 0 0 #bde597;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-bottom: 5px;
+    padding: 2px;
+    text-align: center;
+    width: 100%;
+}
